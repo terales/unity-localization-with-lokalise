@@ -283,6 +283,7 @@ MonoBehaviour:
           - id: 1
           - id: 2
           - id: 3
+          - id: 4
         m_UpdateType: 0
     00000001:
       type: {class: LocalizedStringProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
@@ -301,15 +302,26 @@ MonoBehaviour:
       type: {class: LocalizedAssetProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
         m_Localized:
-          id: 4
+          id: 5
         m_PropertyPath: m_fontAsset
     00000003:
       type: {class: LocalizedAssetProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
         m_Localized:
-          id: 5
+          id: 6
         m_PropertyPath: m_sharedMaterial
     00000004:
+      type: {class: BoolTrackedProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
+      data:
+        m_PropertyPath: m_isRightToLeft
+        m_VariantData:
+        - localeIdentifier:
+            m_Code: en
+          value: 0
+        - localeIdentifier:
+            m_Code: ar
+          value: 1
+    00000005:
       type: {class: LocalizedTmpFont, ns: UnityEngine.Localization, asm: Unity.Localization}
       data:
         m_TableReference:
@@ -319,7 +331,7 @@ MonoBehaviour:
           m_Key: 
         m_FallbackState: 0
         m_WaitForCompletion: 0
-    00000005:
+    00000006:
       type: {class: LocalizedMaterial, ns: UnityEngine.Localization, asm: Unity.Localization}
       data:
         m_TableReference:
