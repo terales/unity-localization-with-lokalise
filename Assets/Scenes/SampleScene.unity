@@ -396,30 +396,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TrackedObjects:
   - id: 0
-  - id: 1
   references:
     version: 1
     00000000:
-      type: {class: TrackedRectTransform, ns: UnityEngine.Localization.PropertyVariants.TrackedObjects, asm: Unity.Localization}
-      data:
-        m_Target: {fileID: 1255235785}
-        m_TrackedProperties:
-          items: []
-    00000001:
       type: {class: TrackedUGuiGraphic, ns: UnityEngine.Localization.PropertyVariants.TrackedObjects, asm: Unity.Localization}
       data:
         m_Target: {fileID: 1255235786}
         m_TrackedProperties:
           items:
-          - id: 2
+          - id: 1
         m_UpdateType: 0
-    00000002:
+    00000001:
       type: {class: LocalizedAssetProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
         m_Localized:
-          id: 3
+          id: 2
         m_PropertyPath: m_Sprite
-    00000003:
+    00000002:
       type: {class: LocalizedSprite, ns: UnityEngine.Localization, asm: Unity.Localization}
       data:
         m_TableReference:
