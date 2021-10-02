@@ -22,6 +22,11 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ar
+  - m_GUID: e670a7147c3fd4317aed0c600db469ea
+    m_Address: NotoSans-Black-Arabic
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ar
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 690f8b4d51a914081bf8e6f0f4022380, type: 2}
   m_SchemaSet:

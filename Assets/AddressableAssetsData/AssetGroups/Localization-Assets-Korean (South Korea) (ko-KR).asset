@@ -22,6 +22,11 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ko-KR
+  - m_GUID: dd4e7ca106b1c4dbf85af81769d237fc
+    m_Address: NotoSans-Black-Korean
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko-KR
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 690f8b4d51a914081bf8e6f0f4022380, type: 2}
   m_SchemaSet:
