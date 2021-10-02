@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Localized strings/Localized strings_ru.asset" source-language="en" target-language="ru">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Localized strings/Localized strings_ru.asset" uid="1085900f9b7494ae5a843079af0b5037" />
+      </skl>
+    </header>
+    <body>
+      <group id="822769ad010a046169499c89f4831ed5" resname="Localized strings">
+        <trans-unit id="806928506880" xml:space="preserve" resname="SampleScene/Canvas/Text (TMP)">
+          <source>Hello!</source>
+          <target>Привет!</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
